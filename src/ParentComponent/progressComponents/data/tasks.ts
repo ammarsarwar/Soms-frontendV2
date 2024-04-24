@@ -1,0 +1,51 @@
+// tasks.ts
+export const tasks = [
+  {
+    student: "12345",
+    studentName: "Irtaza",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Library",
+    description: "Bookshelf fell on Irtaza",
+    actions_taken: "Bandaige has been applied",
+  },
+  {
+    student: "2",
+    studentName: "Ali",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Ground floor",
+    description: "fell from stairs",
+    actions_taken: "Safely escorted to hospital",
+  },
+  {
+    student: "3",
+    studentName: "Ahmad",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Classroom",
+    description: "Hit his head on the desk",
+    actions_taken: "Band aig applied",
+  },
+  {
+    student: "4",
+    studentName: "Lana",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Cafeteria",
+    description: "Description of the incident",
+    actions_taken: "Actions taken",
+  },
+  {
+    student: "5",
+    studentName: "Irtaza",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Football ground",
+    description: "Description of the incident",
+    actions_taken: "Actions taken",
+  },
+  {
+    student: "6",
+    studentName: "David",
+    date_time_of_incident: "2024-01-10 10:00",
+    location: "Arts building",
+    description: "Description of the incident",
+    actions_taken: "Actions taken",
+  },
+];

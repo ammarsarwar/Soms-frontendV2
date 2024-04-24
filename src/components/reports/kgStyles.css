@@ -1,0 +1,42 @@
+.report-card {
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: 2fr repeat(3, 1fr);
+  font-family: Arial, sans-serif;
+}
+
+.report-header {
+  display: contents;
+}
+
+.report-title {
+  font-weight: bold;
+
+  padding: 0.5rem;
+  background-color: skyblue;
+  text-align: left;
+  border: 1px solid #000;
+}
+
+.term {
+  font-weight: bold;
+  padding: 0.5rem;
+  background-color: skyblue;
+  text-align: center;
+  border: 1px solid #000;
+}
+
+.report-row {
+  display: contents;
+}
+
+.skill {
+  padding: 0.5rem;
+  border: 1px solid #000;
+  text-align: left;
+}
+
+.checkbox {
+  border: 1px solid #000;
+  text-align: center;
+}
